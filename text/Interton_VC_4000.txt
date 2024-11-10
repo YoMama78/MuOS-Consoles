@@ -1,0 +1,8 @@
+
+
+
+Manufacturer: Interton
+Media Medium: Cartridge
+CPU: Signetics 2650A
+Memory: 37 bytes
+Graphics: Signetics 2636

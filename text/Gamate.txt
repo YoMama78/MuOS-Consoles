@@ -1,0 +1,9 @@
+
+
+
+Manufacturer: Bit Corporation, United Microelectronics Corporation
+Media Medium: ROM Card
+CPU: UMC UA6588F (earlier revision), NCR 81489, 8 bits (BIT WS39323F) in a QFP-100 shell (later revision)
+Memory: ROM 2 KB (UM6116M-2L CMOS static RAM, pin compatible with ROM/EPROM chips), RAM 16 KB (2 × CXK5864M-15L chips)
+Sound: AY-3-8910, mono internal speaker
+Display: 4 greyscale, 160 x 152 pixels

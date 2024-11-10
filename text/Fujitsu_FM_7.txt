@@ -1,0 +1,18 @@
+The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu, first released in 1982, only sold in Japan. It is a stripped down version of their earlier FM-8; during development, the FM-7 was known as the "FM-8 Jr.".
+
+Although it is known as a lower cost model, most notably removing its (expensive) bubble memory technology, the FM-7 was given a more advanced sound synthesizer, leading to a strong uptake among the hobbyist computer market in Japan and making it a more dominant system than the FM-8.
+
+This model competed primarily with the NEC PC-8801 and Sharp X1 series of computers in the early 1980s. It was succeeded by the FM-77 series in 1984 (which were backwards compatible with the FM-7), and later the 32-bit FM Towns in 1989.
+
+The FM-7 is 6809-based, similar to the TRS-80 Color Computer by Radio Shack; some software is compatible with both systems.
+
+
+Manufacturer: Fujitsu
+Developer: Fujitsu
+Media Medium: Cassette tape, 5¼-inch floppy disk
+CPU: 2x MBL 68B09 @ 2MHz
+Memory: 64KB
+Graphics: 48KB
+Sound: 3-channel (AY-3-8910) PSG chip
+Display: 640×200, 8 colors OR 320×200, 262144 colors
+Max Controllers: 1

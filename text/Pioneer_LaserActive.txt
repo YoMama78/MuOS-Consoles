@@ -1,0 +1,30 @@
+The LaserActive (レーザーアクティブ? RēzāAkutibu) is a converged device and fourth-generation home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs. It was released by Pioneer Corporation in 1993. In addition to LaserActive games, separately sold add-on modules (called "PACs" by Pioneer) accepts Mega Drive/Genesis and PC Engine/TurboGrafx 16 ROM cartridges and CD-ROMs.
+
+Pioneer released the LaserActive model CLD-A100 in Japan on August 20, 1993 at a cost of ¥89,800, and in the United States on September 13, 1993 at a cost of $970. An NEC-branded version of the LaserActive player, the PCE-LD1, was released on December 1993, which was priced identically to the original system and also accepted Pioneer's PAC modules. The LaserActive has no regional lockout, allowing software from any region to be played on any system.
+
+PAC modules:
+
+The Japanese LaserActive shown with the Sega and NEC pacs.
+In the headings below, the Japanese model number occurs first, followed by the North American model number.
+
+Mega LD PAC (PAC-S1 / PAC-S10)
+Pioneer Electronics (USA) and Sega Enterprises released this module that allows users to play 8-inch and 12-inch LaserActive Mega LD discs, in addition to standard Sega CD discs and Genesis cartridges, as well as CD+G discs. It was the most popular add-on bought by the greater part of the LaserActive owners, costing roughly US $600. It comes with a LaserActive-branded version of Sega's 6-button control pad (CPD-S1).
+LD-ROM² PAC (PAC-N1 / PAC-N10)
+Pioneer Electronics (USA) and NEC Home Electronics released this module that allows users to play 8-inch and 12-inch LaserActive LD-ROM² discs, as well as CD-ROM² and Super CD-ROM² discs, HuCards and CD+G discs. The Japanese version of the PAC can also run Arcade CD-ROM² discs through the use of an Arcade Card Duo. The retail price was US $600. It comes with a LaserActive-branded version of NEC's Turbo Pad (CPD-N1/CPD-N10). A NEC branded version of the LD-ROM² PAC (the PCE-LP1) was also released. Due to the unpopularity of the TurboGrafx-16 platform in North America, very few PAC-N10 units were produced for the North American market, resulting in their scarcity compared to its Sega counterpart.
+Karaoke PAC (PAC-K1 / PAC-K10)
+This PAC allows the CLD-A100 to use all NTSC LaserKaraoke titles. The front panel has two microphone inputs with separated volume controls, as well as tone control. The retail price was US $350.
+Computer Interface PAC (PAC-PC1)
+The Computer Interface PAC has an RS-232 port, enabling the CLD-A100 to be controlled by a custom software developed for a home computer. The PAC came with a 33-button infrared remote control providing more functionality than the 24-button remote included with the CLD-A100. It also included a computer program called LaserActive Program Editor on floppy disk for DOS and classic Mac OS. The floppy disks had some sample programs created with the editor for use with the first five LaserDiscs in the Tenchi Muyo! anime series.
+LaserActive 3-D Goggles[edit]
+The LaserActive 3-D Goggles (model GOL-1) employ an active shutter 3D system compatible with at least four 3D-ready LD-ROM software titles: 3-D Museum (1994), Vajra 2 (1994), and Virtual Cameraman 2 (1994), and 3D Virtual Australia (1996). 3D Virtual Australia was the last software title published for the LaserActive.
+
+The goggles are also compatible with the Sega Master System, and are interchangeable with the SegaScope 3-D Glasses. They can also be used to view 3-D images from autostereograms.[4]
+
+A goggle adapter (model ADP-1), packaged and sold separately from the 3-D Goggles, enables the user to connect one or two pairs of goggles to the CLD-A100.
+
+Games:
+The standard LaserActive games were on Laserdisc encoded as an LD-ROM. An LD-ROM had a capacity of 540 MB (where digital audio would have normally been stored) with 60 minutes of analog audio and video.
+
+
+Manufacturer: Pioneer
+Developer: Pioneer

@@ -1,0 +1,8 @@
+Hardware Variants:
+R-Zone Headgear, R-Zone Super Screen, "X.P.G. Xtreme Pocket Game" & The R-Zone DataZone
+
+
+Manufacturer: Tiger Electronics
+Developer: Tiger Electronics
+CPU: Sharp SM51X Series (On Cartridge, Can Vary)
+Max Controllers: 1

@@ -1,0 +1,7 @@
+The Acorn Archimedes is a family of personal computers designed by Acorn Computers Ltd in Cambridge, England and sold in the late-1980s to mid-1990s, their first general purpose home computer based on their own ARM architecture. The Archimedes was one of the most powerful home computers available during the late 1980s and early 1990s; its main CPU was faster than the Motorola 68000 microprocessors found in the more popular Commodore Amiga and Atari ST machines.
+
+
+Manufacturer: Acorn Computers
+Developer: Acorn Computers
+CPU: Acorn RISC Machine
+Memory: 512 KB ~ 16 MB

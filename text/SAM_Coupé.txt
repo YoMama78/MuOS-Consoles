@@ -1,0 +1,11 @@
+The SAM Coupé (pronounced /sæm ku:peɪ/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It is commonly considered a clone of the Sinclair ZX Spectrum computer, since it features a compatible screen mode and emulated compatibility, and it was marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom.
+
+
+Manufacturer: Miles Gordon Technology
+Developer: Miles Gordon Technology
+Media Medium: Floppy Diskette (Double Density)
+CPU: Zilog Z80B @ 6 MHz
+Memory: 256 KB/512 KB (4.5 MB max.)
+Graphics: 128 colour maximum
+Sound: MIDI
+Display: 256×192

@@ -1,0 +1,7 @@
+
+
+
+Manufacturer: Casio
+Media Medium: Cartridge
+CPU: SH7021 32-bit SuperH CPU
+Display: 8 bit colour, 512 colours on screen

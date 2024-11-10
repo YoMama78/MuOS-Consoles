@@ -1,0 +1,8 @@
+
+
+
+CPU: 68008 @ 7.5 MHz
+Memory: 128 KB (896 KB max.)
+Graphics: ZX8301
+Sound: Intel 8049
+Display: PAL TV or RGB Monitor, 256×256 (8 colors), 512×256 (4 colors)

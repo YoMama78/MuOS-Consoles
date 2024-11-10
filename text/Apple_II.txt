@@ -1,0 +1,9 @@
+The Apple II (styled as apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. It was introduced in 1977 at the West Coast Computer Faire by Jobs and was the first consumer product sold by Apple Computer. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993.
+
+
+Manufacturer: Apple
+Developer: Apple
+Media Medium: Cassette, Floppy
+CPU: MOS Technology 6502
+Memory: 4KB, 8KB, 12KB, 16KB, 20KB, 24KB, 32KB, 36KB, 48KB, or 64KB
+Graphics: 40×48 to 280×192

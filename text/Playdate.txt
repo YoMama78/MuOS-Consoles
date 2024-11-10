@@ -1,0 +1,7 @@
+
+
+
+Developer: Panic Inc.
+CPU: STMicroelectronics STM32F746 (ARM Cortex-M7F) 180 MHz, Espressif Systems ESP32-D0WDQ6 80 MHz
+Memory: 16 MB RAM, 4 GB flash storage
+Display: 2.7-inch, 400 × 240 1-bit (173 ppi) Sharp Memory LCD

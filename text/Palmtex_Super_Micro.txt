@@ -1,0 +1,7 @@
+
+
+
+Manufacturer: Palmtex
+Media Medium: Cartridge
+Memory: 2k RAM inside cartridge
+Display: LCD 32x16 57.15×38.1 mm

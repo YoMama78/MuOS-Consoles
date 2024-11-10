@@ -1,0 +1,8 @@
+The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 and manufactured until 1992. All are based on the MOS Technology 6502 CPU running at 1.79 MHz, roughly twice that of similar designs, and were the first home computers designed with custom co-processor chips. This architecture allowed the Atari designs to offer graphics and sound capabilities that were more advanced than contemporary machines like the Apple II or Commodore PET, and gaming on the platform was a major draw; Star Raiders is widely considered the platform's killer app. Machines with similar performance would not appear until the BBC Micro in late 1981 and the Commodore 64 in 1982.
+
+
+Manufacturer: Atari Corporation
+Developer: Atari Corporation
+CPU: MOS Technology 6502B
+Graphics: 384x256
+Sound: 4× oscillators with noise mixing, or 2× AM digital

@@ -1,0 +1,16 @@
+Arcadia 2001 is a second-generation 8-bit console released by Emerson Radio in 1982 following the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist.[citation needed]
+
+The unrelated Arcadia Corporation, manufacturer of the Atari 2600 Supercharger add-on, was sued by Emerson for trademark infringement. Arcadia Corporation then changed its name to Starpath.
+
+The Arcadia is much smaller than its contemporary competitors and is powered by a standard 12-volt power supply so it can be used in a boat or a vehicle. This portability feature, however, requires a portable television, which was extremely rare in the early 1980s. It also has two outputs (or inputs) headphone jacks on the back of the unit, on the far left and far right sides.
+
+The system came with two Intellivision-style controllers with a 12 button keypad and 'fire' buttons on the sides. The direction pads have a removable joystick attachment. Most games came with BoPET overlays that could be applied to the controller's keypads. The console itself had five buttons: power, start, reset, option, and select.
+
+There are at least three different types of cartridge case styles and artwork, with variations on each. Emerson-family carts come in two different lengths (short and long) of black plastic cases.
+
+
+Manufacturer: Emerson Radio
+Developer: Emerson Radio
+Memory: 1 KB RAM
+Graphics: 128 × 208 / 128 × 104, 8 Colors
+Max Controllers: 2
