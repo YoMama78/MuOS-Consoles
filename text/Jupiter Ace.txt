@@ -1,0 +1,8 @@
+
+
+
+Developer: Jupiter Cantab
+CPU: Zilog Z80A
+Memory: 2 KB for Video + 1 KB base expandable up to 49 KB
+Graphics: Independent sub-system with 2 dedicated SRAM banks: Screen (1 KB) + Char Tiles (1 KB)
+Sound: Internal speaker, CPU-driven

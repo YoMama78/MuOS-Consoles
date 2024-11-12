@@ -1,0 +1,8 @@
+
+
+
+Manufacturer: Heber
+Media Medium: Cartridge
+CPU: Zilog Z80
+Memory: 2kB SRAM, 16kB VRAM, 16k ROM
+Graphics: Texas Instruments TMS9129

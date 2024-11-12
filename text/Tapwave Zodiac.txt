@@ -1,0 +1,9 @@
+
+
+
+Manufacturer: Tapwave
+CPU: Motorola i.MX-1 ARM9 processor @ 200 MHz
+Memory: 10 MB dedicated to the System Dynamic RAM, 32/128 MB ROM
+Graphics: ATI Imageon W4200 2D graphics accelerator (with 8 MB dedicated SDRAM)
+Sound: Yamaha sound and stereo speakers, 3.5 mm earphone plug
+Display: 3.8 inch transflective 480×320 (half VGA), 16-bit colour backlit display (65,536 colours)

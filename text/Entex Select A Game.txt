@@ -1,0 +1,9 @@
+The Entex Select-a-game is a handheld game system released in 1981 by Entex Industries. Entex released six games for the device before they dropped support in 1982 in favor of the Entex Adventure Vision.
+
+
+Manufacturer: Entex Industries
+Developer: Entex Industries
+Media Medium: Cartridge
+CPU: Space Invader 2 cartridge: Hitachi HD38800-A31
+Display: 7 x 16 vacuum fluorescent display (VFD)
+Max Controllers: 1

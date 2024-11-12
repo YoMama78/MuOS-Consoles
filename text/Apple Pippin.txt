@@ -1,0 +1,9 @@
+
+
+
+Manufacturer: Bandai
+Developer: Apple Computer
+Media Medium: CD-ROM
+CPU: PowerPC 603 RISC @ 66 MHz
+Memory: 6 MB combined system and video memory,128kb NVRAM
+Graphics: Taos (VGA/16-bit)

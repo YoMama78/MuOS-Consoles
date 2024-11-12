@@ -1,0 +1,12 @@
+The Xbox is a sixth-generation video game console manufactured by Microsoft. It was released on November 15, 2001 in North America, February 22, 2002 in Japan, and March 14, 2002 in Australia and Europe and is the predecessor to the Xbox 360. It was Microsoft's first foray into the gaming console market, and competed with Sony's PlayStation 2, Sega's Dreamcast, and Nintendo's GameCube. The integrated Xbox Live service allowed players to play games online.
+
+
+Manufacturer: Microsoft
+Developer: Microsoft
+Media Medium: Disc
+CPU: Custom 733 MHz Intel Pentium III "Coppermine-based" processor
+Memory: 64 MB of DDR SDRAM @ 200 MHz
+Graphics: 233 MHz nVidia NV2A
+Sound: NVIDIA "MCPX" (a.k.a. SoundStorm "NVAPU")
+Display: 480i, 480p, 576i, 576p, 720p, 1080i
+Max Controllers: 4

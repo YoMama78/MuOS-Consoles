@@ -1,0 +1,18 @@
+The Acorn Electron is a budget version of the BBC Micro educational/home computer made by Acorn Computers Ltd. It has 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system.
+
+The Electron was able to save and load programs onto audio cassette via a supplied converter cable that connected it to any standard tape recorder that had the correct sockets. It was capable of basic graphics, and could display onto either a television set, a colour (RGB) monitor or a "green screen" monitor.
+
+For a short period, the Electron was reportedly the best selling micro in the United Kingdom and total lifetime game sales for the Electron exceeded those of the BBC Micro.
+
+
+Manufacturer: Acorn Computers
+Developer: Acorn Computers
+Media Medium: Cassette tape, floppy disk (optional), ROM cartridge (optional)
+CPU: MOS Technology 6502A with 2/1 MHz
+Memory: 32 kB RAM, 32 kB ROM
+Graphics: 160×256 (4 or 16 colours), 320×256 (2 or 4 colours), 640×256 (2 colours), 320×200 (2 colours — spaced display with two blank horizontal lines following every 8 pixel lines), 640×200 (2 colours — spaced display)
+Sound: 1 channel of sound, 7 octaves; built-in speaker
+Display: RF modulator, composite video, RGB monitor output
+Max Controllers: -
+Watch Trailer
+

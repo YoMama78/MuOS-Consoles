@@ -1,0 +1,14 @@
+The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console.
+Late in the life span of the company, Atari released this long-promised CD-ROM unit. The unit hit shelves on September 11, 1995 and retailed for $149.95.
+
+The device sat atop the Jaguar console, snapping very firmly into the cartridge slot, and had a funnel-like shape. The drive had its own cartridge slot to allow cartridge games to be played without removing the CD drive. There was a separate "Memory Track" cartridge for storing saved game position and high scores.
+The Jaguar CD unit featured a double speed (2x) drive and built-in VLM (Virtual Light Machine) software written by Jeff Minter. The VLM, which provided a sophisticated video light show when an audio CD was played in the machine, was as popular among buyers as the games themselves. Packaged with the drive were two games (Blue Lightning and Vid Grid), a music CD (Tempest 2000 soundtrack), and a Myst demo disc. Also, the startup screen was different than that of the cartridge-based Jaguar: using the VLM banks it created a random 'light show' that was different every time the console was switched on. However, the startup was silent.
+
+
+Manufacturer: Atari
+Developer: Atari
+Media Medium: Disc (up to 790MB)
+CPU: 2 CPU - 26.59 MHz
+Memory: 2 MB
+Graphics: "Tom" Chip, 26.59 MHz
+Max Controllers: 2

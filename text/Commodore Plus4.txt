@@ -1,0 +1,9 @@
+
+
+
+Manufacturer: Commodore Business Machines
+CPU: MOS Technology 7501 or 8501 @ 1.76 MHz
+Memory: 64 KB RAM + 64 KB ROM
+Graphics: TED (320 × 200, 121 colors)
+Sound: TED (2-channel with 4-octave + white noise)
+Display: Text mode: 40×25 characters (PETSCII). Graphics modes: 160x200 (multicolor, no sprites) / 320×200 (hi-resolution) at 121 colors (all can be visible at the same time)

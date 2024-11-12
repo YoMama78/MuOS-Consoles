@@ -1,0 +1,11 @@
+The Adventure Vision is a self-contained (no external monitor is required) cartridge-based video game console released by Entex Industries in 1982. The Adventure Vision was Entex's second generation system. Their first console was the Entex Select-A-Game, released a year earlier in 1981.
+
+
+Manufacturer: Entex Industries
+Developer: Entex Industries
+Media Medium: Cartridge
+CPU: Intel 8048 @ 733 kHz
+Memory: 1KB
+Sound: National Semiconductor COP411L @ 52.6 kHz
+Display: 150x40 monochrome pixels
+Max Controllers: 1

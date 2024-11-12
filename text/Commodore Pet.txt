@@ -1,0 +1,10 @@
+
+
+
+Manufacturer: Commodore International
+Media Medium: Cassette tape, 5.25-inch floppy, 8-inch floppy, hard disk
+CPU: MOS Technology 6502 @ 1 MHz
+Memory: 4–96 KB
+Graphics: Monochrome character graphics
+Sound: None or beeper
+Display: 40×25 or 80×25 text

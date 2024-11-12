@@ -1,0 +1,9 @@
+
+
+
+Manufacturer: Game Park
+Media Medium: SmartMedia
+CPU: Samsung S3C2400X01 (ARM920T core)
+Memory: 8 MB SDRAM (16-bit wide) RAM, 512 KB (8-bit wide) ROM
+Sound: 44.1 kHz 16-bit stereo sound, 16-part polyphonic software MIDI
+Display: 3.5 in TFT, 16-bit colour, 320 × 240 pixels

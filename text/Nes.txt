@@ -1,0 +1,14 @@
+The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.
+
+As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo's platform.
+
+
+Manufacturer: Nintendo
+Developer: Nintendo
+Media Medium: Cartridge
+CPU: Ricoh 2A03
+Memory: 2KB RAM
+Graphics: RP2C02
+Sound: Pulse Code Modulation
+Display: RGB
+Max Controllers: 2

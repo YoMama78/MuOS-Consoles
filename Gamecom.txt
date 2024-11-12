@@ -1,0 +1,8 @@
+The Game.com is a handheld game console released by Tiger Electronics in September 1997. It featured many new ideas for handheld consoles and was aimed at an older target audience, having PDA-style features and functions such as a touchscreen and stylus. Unlike other handheld game consoles, the first Game.com console included two slots for game cartridges and could be connected to a 14.4 kbit/s modem. There were 21 games released for the Game.com, as well as 9 known unreleased.
+
+
+Manufacturer: Tiger Electronics
+Developer: Tiger Electronics
+Media Medium: Cartridge
+CPU: Sharp SM8521
+Display: 200 x 160

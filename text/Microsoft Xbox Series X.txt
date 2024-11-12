@@ -1,0 +1,18 @@
+The Xbox Series X is an upcoming home video game console developed by Microsoft. It was announced during E3 2019 as "Project Scarlett" and scheduled for release in late 2020.
+
+Microsoft will also be releasing a digital only version called Xbox Series S, with different specs:
+CPU: 8-core AMD Zen 2 CPU @ 3.6GHz (3.4GHz with SMT enabled)
+GPU: AMD RDNA 2 GPU, 20 compute units @ 1.565GHz
+GPU power: 4 TFLOPS
+RAM: 10GB GDDR6
+
+
+Manufacturer: Microsoft
+Developer: Microsoft
+Media Medium: 4K UHD Blu-Ray Disc
+CPU: 8x Zen 2 Cores at 3.8GHz (3.6GHz with SMT) 7nm
+Memory: 16GB GDDR6
+Graphics: AMD Navi RNDA 2 GPU, 12.15TFs
+Display: HDMI
+Watch Trailer
+

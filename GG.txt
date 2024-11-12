@@ -1,0 +1,15 @@
+The Sega Game Gear was Sega's first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the TurboExpress.
+
+Work began on the console in 1989 under the codename "Project Mercury", following Sega's policy at the time of codenaming their systems after planets. The system was released in Japan on October 6, 1990, North America, Europe and Argentina in 1991, and Australia in 1992. The launch price was $150 US and £145 UK. Sega dropped support for the Game Gear in early 1997.
+
+
+Manufacturer: Sega
+Developer: Sega
+Media Medium: Cartridge
+CPU: Zilog Z80
+Memory: 8KB RAM
+Sound: 3 square wave generators, 1 noise generator, the system has a mono speaker, but stereo sound can be had via headphone output
+Display: 160 x 144
+Max Controllers: 1
+Watch Trailer
+
