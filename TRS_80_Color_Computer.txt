@@ -1,9 +1,0 @@
-The Radio Shack TRS-80 Color Computer (also marketed as the Tandy Color Computer and affectionately nicknamed CoCo) is a line of home computers based on the Motorola 6809 processor. The Color Computer was launched in 1980, and lasted through three generations of hardware until being discontinued in 1991. The CoCo is designed to be attached to a color television set, whereas the Z80 machines use monochrome computer monitors, often built into the case. The CoCo also features an expansion connector for program cartridges (mostly games, although the EDTASM assembler is a cartridge) and other expansion devices, such as floppy-disk controllers and modems. In this way it is similar to the Atari 2600, Atari 8-bit computers, and other cartridge-capable systems. Tandy released a Multi-Pak Interface which allowed switching quickly among four cartridges. This is similar in concept to the Model I's Expansion Interface.
-
-
-Manufacturer: Tandy Corporation
-Developer: Tandy Corporation
-Media Medium: Cartridge
-CPU: Motorola 6809E @ 0.895 MHz / 1.79 MHz
-Memory: 4 kB / 16 kB / 32 kB / 64 kB / 128 kB / 512 kB
-Graphics: MC6847 Video Display Generator

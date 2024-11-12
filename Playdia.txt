@@ -1,8 +1,0 @@
-
-
-
-Manufacturer: Bandai
-Media Medium: CD-ROM
-CPU: 8-bit NEC μPD78214GC @12MHz; 8-bit Toshiba TMP87C800F @8MHz (Z80 derivative)
-Graphics: Asahi Kasei AK8000
-Sound: Asahi Kasei AK8000

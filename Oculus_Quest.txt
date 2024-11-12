@@ -1,9 +1,0 @@
-
-
-
-Developer: Oculus
-CPU: 4 Kryo 280 Gold (ARM Cortex-A73 based) @ 2.45 GHz + 4 Kryo 280 Silver (ARM Cortex-A73 based) @ 1.9 GHz
-Memory: 4 GB
-Graphics: Adreno 540
-Sound: Integrated stereo speakers 2 × 3.5 mm headphone jack
-Display: PenTile OLED 1440 × 1600 per eye @ 72 Hz

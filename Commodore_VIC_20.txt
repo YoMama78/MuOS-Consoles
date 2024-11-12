@@ -1,9 +1,0 @@
-The VIC-20 is an 8-bit home computer which was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. As for commercial software offerings, an estimated 300 titles were available on cartridge, and another 500+ titles were available on tape. By comparison, the Atari 2600—the most popular of the video game consoles at the time—had a library of about 900 titles near the end of its production life (although many titles were extremely similar). Most cartridge games were ready to play as soon as the VIC-20 was turned on, as opposed to games on tape which required a time-consuming loading process. Titles on cartridge included Gorf, Cosmic Cruncher, Sargon II Chess, and many others. A handful of disk applications were released for the VIC-20.
-
-
-Manufacturer: Commodore Business Machines
-Developer: Commodore International
-CPU: MOS Technology 6502
-Memory: 20 KB ROM + 5 KB RAM
-Graphics: VIC 176 x 184 3-bpp
-Sound: 3 × square, 1 × noise, mono.

@@ -1,7 +1,0 @@
-
-
-
-Manufacturer: VTech
-Media Medium: ROM cartridge
-CPU: Sunplus SPG2xx
-Max Controllers: 2

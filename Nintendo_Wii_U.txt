@@ -1,8 +1,0 @@
-The Wii U is Nintendo's sixth home console and the first Nintendo console to produce 1080p high-definition graphics, and features a new controller with an embedded touchscreen. The controller allows a player to continue playing certain games by displaying the game even when the television is off. The system will be backwards compatible with Wii, and Wii U games can support compatibility with Wii peripherals, such as the Wii Remote Plus, Nunchuck, and Classic Controller Pro. It will not be backwards compatible with Nintendo GameCube media or peripherals.
-
-
-Manufacturer: Foxconn
-Developer: Nintendo
-CPU: IBM Power7
-Graphics: AMD Radeon HD GPU
-Sound: Six-channel PCM linear output through HDMI

@@ -1,5 +1,0 @@
-The Microvision is the very first handheld game console that used interchangeable cartridges. It was released by the Milton Bradley Company in November 1979. The Microvision was designed by Jay Smith, the engineer who would later design the Vectrex gaming console. The Microvision's combination of portability and a cartridge-based system led to moderate success, with Smith Engineering grossing $15 million in the first year of the system's release. However, very few cartridges, a small screen, and a lack of support from established home video game companies led to its demise in 1981.[2] According to Satoru Okada, the former head of R&D1 Department stated that the Microvision gave birth to Nintendo Game & Watch after Nintendo designed around Microvision's limitations.
-
-
-Developer: Milton Bradley
-CPU: Texas Instruments TMS1100 (On cartridge) (Early cartridges were Intel 8021)

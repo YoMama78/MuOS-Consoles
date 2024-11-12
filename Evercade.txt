@@ -1,9 +1,0 @@
-
-
-
-Manufacturer: Blaze Entertainment
-Developer: Blaze Entertainment
-Media Medium: ROM cartridge
-CPU: 1.2GHz Cortex-A7
-Sound: Dual speakers
-Display: Horizontal 4.3-inch LCD screen, 480x272 pixels, Mini HDMI
