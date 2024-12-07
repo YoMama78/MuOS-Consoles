@@ -1,0 +1,12 @@
+The ColecoVision is Coleco Industries' second generation home video game console which was released in August 1982. The ColecoVision offered arcade-quality graphics and gaming style, and the means to expand the system's basic hardware. Released with a catalog of 12 launch titles, with an additional ten games announced for 1982, approximately 145 titles in total were published as ROM cartridges for the system between 1982 and 1984.
+
+
+Manufacturer: Coleco
+Developer: Coleco
+Media Medium: Cartridge
+CPU: Zilog Z80
+Memory: 1 KB
+Graphics: Texas Instruments TMS9928A
+Sound: Texas Instruments SN76489A
+Display: 256×192
+Max Controllers: 1

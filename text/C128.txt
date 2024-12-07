@@ -1,0 +1,10 @@
+The Commodore 128 is the last 8-bit home computer that was commercially released by Commodore Business Machines (CBM). Introduced in January 1985 at the CES in Las Vegas, it appeared three years after its predecessor, the bestselling Commodore 64. Some 64 software such as Bard's Tale III and Kid Niki ran in 128 mode without stating this in the documentation, using the autoboot and the 1571's faster disk access.  Some Infocom text adventures took advantage of the 80 column screen and increased memory capacity. Some C64 games were ported to native mode like Kikstart 2 and The Last V8 from Mastertronic, which have separate 128 versions, and Ultima V: Warriors of Destiny from Origin Systems, which uses extra RAM for music if running on the C128. The vast majority of games simply ran in 64 mode.
+
+
+Manufacturer: Commodore Business Machines
+Developer: Commodore International
+CPU: Zilog Z80A @ 4 MHz
+Memory: 128 kB
+Graphics: VIC-II E (320×200, 16 colors, sprites, raster interrupt)
+Sound: SID 6581/8580 (3× Osc, 4× Wave, Filter, ADSR, Ring)
+Max Controllers: 2

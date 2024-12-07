@@ -1,0 +1,14 @@
+The PlayStation Portable, officially abbreviated PSP, is a handheld game console manufactured and marketed by Sony Corporation.  The PlayStation Portable is the first and only handheld video game console to use an optical disc format, Universal Media Disc (UMD), as its primary storage medium.
+
+
+Manufacturer: Sony
+Developer: Sony
+Media Medium: UMD Disc
+CPU: MIPS R4000-based
+Memory: 32MB
+Graphics: Sony CXD187
+Sound: Embedded Virtual Mobile Engine (VME) Sound Core
+Display: 480 × 272
+Max Controllers: 1
+Watch Trailer
+

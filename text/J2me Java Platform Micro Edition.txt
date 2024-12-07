@@ -1,6 +1,0 @@
-
-
-
-Manufacturer: Sun Microsystems
-Developer: Sun Microsystems
-Media Medium: Portable Code Executables

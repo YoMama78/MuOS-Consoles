@@ -1,7 +1,0 @@
-
-
-
-Manufacturer: Sinclair Research
-Media Medium: Cassette tape
-CPU: Z80 @ 3.25-3.55 MHz
-Memory: 1 KB (16 KB max.)

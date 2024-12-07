@@ -1,8 +1,0 @@
-MSX is a standardized home computer architecture Despite Microsoft's involvement, the MSX-based machines were seldom released in the United States, but were popular in Asian countries like Japan and South Korea, South American countries like Brazil and Chile, and in the European market in countries like the Netherlands, France, Spain and Finland. To a lesser extent, the MSX platform was also popular in the former Soviet Union and Kuwait.
-
-Before the appearance and great success of Nintendo's Family Computer, MSX was the platform for which major Japanese game studios, such as Konami and Hudson Soft, produced video game titles. The Metal Gear series, for example, was originally written for MSX hardware.
-
-
-Manufacturer: Microsoft
-Developer: ASCII Corporation
-Media Medium: Cartridge, Floppy

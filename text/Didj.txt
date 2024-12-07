@@ -1,7 +1,0 @@
-
-
-
-Manufacturer: LeapFrog Enterprises
-Media Medium: Cartridge, download
-CPU: LeapFrog LF-1000 (Pollux SoC) ARM9 @ 393 MHz
-Memory: 32MB

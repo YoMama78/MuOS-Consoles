@@ -1,5 +1,0 @@
-
-
-
-Manufacturer: VTech
-CPU: Zilog Z80 @ 3.57 MHz
